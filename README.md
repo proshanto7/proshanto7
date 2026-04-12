@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Proshanto 👋
 
-<!--
-**proshanto7/proshanto7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Honours Final Year Student (Accounting Department)
+- 💻 Full-stack Developer (MERN Stack)
+- 🌱 Currently learning and building projects with MongoDB, Express.js, React, Node.js, and TypeScript
+- 🎨 Skilled in UI/UX design using Figma
+- 📍 Based in Dhaka & Sylhet, Bangladesh
+- ✨ Passionate about coding, problem-solving, and exploring new technologies
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Design Tools:** Figma
+- **Other Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- [ToDo-List](https://github.com/proshanto7/ToDo-List) – A simple task management app using CSS
+- [Number Guessing Game](https://github.com/proshanto7/Number-Guessing-In-Two-Players) – Fun JavaScript game
+- [Honours CGPA Calculator](https://github.com/proshanto7/Honours-CGPA-calculotar) – Academic calculator using HTML
+- [Falaq Food](https://github.com/proshanto7/Falaq-food) – Static website using HTML & CSS
+
+### 📊 GitHub Stats
+![Proshanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=proshanto7&show_icons=true&theme=radical)
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/proshanto7
+- Email: proshantosarker153@gmail.com
