@@ -9,7 +9,7 @@
 - ✨ Passionate about coding, problem-solving, and exploring new technologies
 
 ### 🛠️ Tech Stack
-![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20Bootstrap-blue)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20Bootstrap-blue)
 ![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green)
 ![Database](https://img.shields.io/badge/Database-MongoDB-orange)
 ![Design](https://img.shields.io/badge/Design-Figma-pink)
@@ -28,5 +28,5 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proshanto7&theme=radical)
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Profile Link]
-- Email: [Your Email Address]
+- LinkedIn: www.linkedin.com/in/proshanto7
+- Email: proshantosarker153@gmail.com
