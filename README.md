@@ -22,7 +22,7 @@
 - [Falaq Food](https://github.com/proshanto7/Falaq-food) – Static website using HTML & CSS
 
 ### 📊 GitHub Stats
-![Proshanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=proshanto7&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=proshanto7&show_icons=true&theme=tokyonight)
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/proshanto7
 - Email: proshantosarker153@gmail.com
