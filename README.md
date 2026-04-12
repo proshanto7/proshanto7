@@ -23,7 +23,6 @@
 
 ### 📊 GitHub Stats
 ![Proshanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=proshanto7&show_icons=true&theme=radical)
-
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/proshanto7
 - Email: proshantosarker153@gmail.com
