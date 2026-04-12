@@ -9,10 +9,11 @@
 - ✨ Passionate about coding, problem-solving, and exploring new technologies
 
 ### 🛠️ Tech Stack
-![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-blue)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20Bootstrap-blue)
 ![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green)
 ![Database](https://img.shields.io/badge/Database-MongoDB-orange)
 ![Design](https://img.shields.io/badge/Design-Figma-pink)
+![Deployment](https://img.shields.io/badge/Deployment-Netlify%20%7C%20Vercel-purple)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20VS%20Code-lightgrey)
 
 ### 📂 Featured Projects
