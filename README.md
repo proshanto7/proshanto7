@@ -9,11 +9,11 @@
 - ✨ Passionate about coding, problem-solving, and exploring new technologies
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Design Tools:** Figma
-- **Other Tools:** Git, GitHub, VS Code
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-blue)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green)
+![Database](https://img.shields.io/badge/Database-MongoDB-orange)
+![Design](https://img.shields.io/badge/Design-Figma-pink)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20VS%20Code-lightgrey)
 
 ### 📂 Featured Projects
 - [ToDo-List](https://github.com/proshanto7/ToDo-List) – A simple task management app using CSS
@@ -21,8 +21,11 @@
 - [Honours CGPA Calculator](https://github.com/proshanto7/Honours-CGPA-calculotar) – Academic calculator using HTML
 - [Falaq Food](https://github.com/proshanto7/Falaq-food) – Static website using HTML & CSS
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=proshanto7&show_icons=true&theme=tokyonight)
+### 📊 Activity & Metrics
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proshanto7&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proshanto7&theme=radical)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proshanto7&theme=radical)
+
 ### 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/proshanto7
-- Email: proshantosarker153@gmail.com
+- LinkedIn: [Your LinkedIn Profile Link]
+- Email: [Your Email Address]
