@@ -1,4 +1,4 @@
-# Hi there, I'm Proshanto 👋
+# Hi, I'm Proshanto 👋
 
 ### 🚀 About Me
 - 🎓 Honours Final Year Student (Accounting Department)
