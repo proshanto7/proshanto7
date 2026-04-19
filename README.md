@@ -23,7 +23,7 @@
   A simple task management app using CSS
 
 - **Number Guessing Game**  
-  [GitHub Repo](https://github.com/proshanto7/Number-Guessing-In-Two-Players) | [Live Demo](#)  
+  [GitHub Repo](https://github.com/proshanto7/Number-Guessing-In-Two-Players) | [Live Demo](https://proshanto7.github.io/ToDo-List/)  
   Fun JavaScript game for two players
 
 - **Honours CGPA Calculator**  
