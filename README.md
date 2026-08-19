@@ -38,6 +38,10 @@
   [GitHub Repo](#) | [Live Demo](https://clicon26.netlify.app/)  
   A live project deployed on Netlify
 
+### 💼 Professional Work
+- 🏢 **Company GitHub Profile:** [msrproshanto7](https://github.com/msrproshanto7)
+- 💻 Internship projects and professional development work are available on my company GitHub profile.
+
 ### 📊 Activity & Metrics
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proshanto7&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proshanto7&theme=radical)
